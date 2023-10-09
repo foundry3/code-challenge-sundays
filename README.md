@@ -11,6 +11,7 @@ This code challenge requires you to complete the following
 Notes:
 1. You can choose whichever date adapater you like
 2. Don't worry about styling, just use the default material one provided
+3. Extra marks if you use a Reactive Form and watch for the value changes using a RxJS stream.
 
 ## Timeframe
 
@@ -18,3 +19,4 @@ This should take between 30 - 60  minutes to complete
 
 ## When finished
 
+Create your own public repository and upload to there and provide the link
